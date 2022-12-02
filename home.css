@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url("https://i.pinimg.com/736x/b7/b2/44/b7b244e5c36366a154a4a8389138b865.jpg");
+    background-size: 100%;
+    color: white;
+}
+nav h1{
+    font-size: 60px;
+    color: white;
+}
+ul li a{
+    font-size: 40px;
+    color: aquamarine;
+    border: 4px solid white;
+}
+div p{
+    font-size: 60px;
+    color: red;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zfywBoaZUTSnswF98ZvS1BajhUmze5Ur8xptURLNGyNRC4UVLs-2TjrWUM6XHl0N8P4&usqp=CAU);
+    background-size: 100%;
+    color: white;
+}
+nav h1{
+    font-size: 60px;
+    color: red;
+}
+ul li a{
+    font-size: 40px;
+    color: aquamarine;
+    border: 4px solid white;
+}
+div p{
+    font-size: 60px;
+    color: aqua;
+}
