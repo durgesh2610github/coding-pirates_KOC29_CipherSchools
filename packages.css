@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url("https://img.freepik.com/premium-photo/3d-rendering-black-dumbbells-floor-dark-concept-fitness-room-with-training-equipments-back_67155-14961.jpg?w=2000");
+    background-size: 100%;
+    color: white;
+}
+nav h1{
+    font-size: 60px;
+    color: red;
+}
+ul li a{
+    font-size: 40px;
+    color: aquamarine;
+    border: 4px solid white;
+}
+div p{
+    font-size: 60px;
+    color: aqua;
+}
